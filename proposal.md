@@ -33,3 +33,4 @@ https://www.nyserda.ny.gov/All-Programs/chargeny/support-electric/data-on-electr
 
 #### reference
 https://www.atlasevhub.com/materials/state-ev-registration-data/#data
+https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset
