@@ -10,7 +10,7 @@ https://github.com/MarcccHuuu/2022Spring_Finals_EV
 ##### Hypothesis 1:  
 Are the development trends of new energy vehicles in each state consistent, or have they changed?
 ##### Hypothesis 2:
-What is the difference in sales between different brands of new energy vehicles？
+What is the difference in sales between different brands of new energy vehicles in different state？
 ##### Hypothesis 3:
 Are sales of new energy vehicles in different states related to the number of charging piles? 
 ##### Hypothesis 4:
