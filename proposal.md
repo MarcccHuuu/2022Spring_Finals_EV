@@ -46,6 +46,15 @@ https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset
 https://www.kaggle.com/datasets/kkhandekar/cheapest-electric-cars
 https://www.kaggle.com/datasets/prasertk/electric-vehicle-charging-stations-in-usa
 https://www.kaggle.com/code/divyanshugupta95/electric-vehicle-analysis
+https://simplemaps.com/data/us-zips
+https://www.barchart.com/ondemand/api/getFuelPrices
+https://www.zip-codes.com/zip-code-api.asp
+http://federalgovernmentzipcodes.us/download.html
+https://data.ny.gov/Energy-Environment/Gasoline-Prices/wuxr-ni2i
 
 #### Example
 https://www.kaggle.com/code/tyrawls/electric-vehicle-analysis
+https://pdf.dfcfw.com/pdf/H3_AP202106161498285507_1.pdf?1623858216000.pdf
+https://www.pewresearch.org/fact-tank/2021/06/07/todays-electric-vehicle-market-slow-growth-in-u-s-faster-in-china-europe/
+https://www.kaggle.com/code/divyanshugupta95/electric-vehicle-analysis
+https://www.fuelsinstitute.org/Research/Reports/EV-Consumer-Behavior/EV-Consumer-Behavior-Report.pdf
