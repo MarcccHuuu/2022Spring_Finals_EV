@@ -18,14 +18,12 @@ development. Through the investigation of relevant literature, we give the follo
 
 
 ##### Hypothesis 1:  
-Are the development trends of new energy vehicles in each state consistent, or have they changed?
-##### Hypothesis 2:
 What is the difference in sales between different brands of new energy vehicles in different state？
+##### Hypothesis 2:
+Are the development trends of new energy vehicles in each state consistent, or have they changed?
 ##### Hypothesis 3:
 We expect there is a strong positive correlation between the number of electric and plug-in hybrid vehicles sold 
 compared to the number of public charging stations in the same region.
-##### Hypothesis 4:
-Are new energy vehicle sales related to urban GDP, population density and other factors?
 
 ### Databases:
 Washington state new energy vehicle data:
