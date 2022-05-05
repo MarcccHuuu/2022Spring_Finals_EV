@@ -38,6 +38,9 @@ https://www.atlasevhub.com/public/dmv/ny_ev_registrations_public.csv
 USA electric vehicle charging station data:
 https://www.kaggle.com/datasets/prasertk/electric-vehicle-charging-stations-in-usa
 
+US zip code population data:
+https://simplemaps.com/data/us-zips
+
 #### reference
 https://www.atlasevhub.com/materials/state-ev-registration-data/#data
 https://www.kaggle.com/datasets/geoffnel/evs-one-electric-vehicle-dataset
