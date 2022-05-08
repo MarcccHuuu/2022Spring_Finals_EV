@@ -17,9 +17,11 @@ on electric vehicles in Washington, Texas, and New York. By reviewing the releva
 Data introduction:
   We found 5 csv files that are useful for our research.
   The first three files are the electric vehicle data from Washington, Texas, and New York state. They recorded the registrations of the electric vehicles in each area. From data of Newyork state, we can see there are around 290 thousand lines of data and 10 columns.
+
 ![img_1.png](img_1.png)
 
   And other two files are US Electric Vehicle Charging Station Data and US Population by Zip Code. US Electric Vehicle Charging Station Data has the information of charging piles, the registration time and other related information. What is more, US Population by Zip Code obtains the information about the population in each zip code, like population number, population density and other related information.
+
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 
@@ -30,6 +32,7 @@ Data introduction:
   We studied the distribution of vehicle brands in New York, Texas and Washington in 2020-2022, so the variables we need are the registration time of the car, the brand of the car, and use some visualizations for data presentation.
 
   Take New York state for example, we sort the vehicles according to the sales of different brands and take out the top 20 models for visualization. First, from the statistics and bar charts, Tesla outsells other brands of models by an absolute advantage. From the pie chart, Tesla sells more than one-third of all electric vehicles sold in New York State, followed by Toyota at 18.5 percent. After 2020, Tesla and Toyota’s electric vehicles will occupy more than half of the entire New York State market.
+
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
 
